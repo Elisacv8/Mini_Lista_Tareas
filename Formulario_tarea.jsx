@@ -18,4 +18,6 @@ onclick <useState>
 </Mostrar_Listas>
 
 Mostrar_listas <ClipboardEvent(touchList,"Mini_Lista_Tareas")
+
 }
+export default Formulario_tarea;
